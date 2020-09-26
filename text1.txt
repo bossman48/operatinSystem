@@ -1,0 +1,4 @@
+echo hasan ;
+echo osman ;
+cd /home/user/Desktop ;
+history ;

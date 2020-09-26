@@ -1,0 +1,4 @@
+cat  /home/user/Desktop/operaintSystem/hw1/osman.txt ; cat /home/user/Desktop/operaintSystem/hw1/osman2.txt  |  grep --color -i -n hw ; grep --color -i -n as
+
+
+
